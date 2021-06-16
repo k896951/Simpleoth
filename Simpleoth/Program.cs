@@ -58,9 +58,10 @@ namespace Simpleoth
                                         new Point[]{  new Point(1,2) ,  new Point(1,7) ,  new Point(2,8) ,  new Point(7,8)
                                                     , new Point(8,7) ,  new Point(8,2) ,  new Point(7,1) ,  new Point(2,1)
                                                     , new Point(2,6) ,  new Point(3,7) ,  new Point(6,7) ,  new Point(7,6)
-                                                    , new Point(7,3) ,  new Point(6,1) ,  new Point(3,1) ,  new Point(2,3) },
+                                                    , new Point(7,3) ,  new Point(6,1) ,  new Point(3,2) ,  new Point(2,3) },
                                         new Point[]{  new Point(2,2) ,  new Point(6,6) ,  new Point(6,3) ,  new Point(2,7)
-                                                    , new Point(7,7) ,  new Point(3,3) ,  new Point(7,2) ,  new Point(3,6) }
+                                                    , new Point(7,7) ,  new Point(3,3) ,  new Point(7,2) ,  new Point(3,6) },
+                                        new Point[]{  new Point(4,4) ,  new Point(5,5) ,  new Point(4,5) ,  new Point(5,4) }
                                       };
         private Vector[] searchVecter = {
                                             new Vector( 1, 0), new Vector( 1, 1), new Vector( 0, 1), new Vector(-1, 1)
